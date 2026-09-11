@@ -1,4 +1,4 @@
-/* Provides styling, layout, and responsive design for the Language Translation Tool. */
+
 const translateBtn = document.getElementById("translateBtn");
 const inputText = document.getElementById("inputText");
 const sourceLanguage = document.getElementById("sourceLanguage");
